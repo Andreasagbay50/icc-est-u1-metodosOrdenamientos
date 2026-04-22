@@ -37,7 +37,7 @@ public class MetodoBurbuja {
             }
         }
     }
-    public void imprimirArreglo(){
+    public void printrArreglo(){
         for(int num: arreglo){
             System.out.print(num + ", "); //Concatenar
         }
